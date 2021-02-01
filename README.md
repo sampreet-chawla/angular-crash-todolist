@@ -1,4 +1,8 @@
-# AngularCrashTodolist
+# angular-crash-todolist
+
+An Angular To-do list app to practice quick introduction to Angular. It was developed following the [Angular Crash Course](https://www.youtube.com/watch?app=desktop&v=Fdf5aTYRW0E).
+
+## Project Generation
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.1.
 
